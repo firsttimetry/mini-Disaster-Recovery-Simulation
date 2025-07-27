@@ -34,7 +34,7 @@ mini-cloud-disaster-recovery-system/
 ├── requirements.txt # Dependencies
 └── README.md 
 
-## 🛠 Setup & Installation
+## Setup & Installation
 
 ### 1. Install Dependencies
 
