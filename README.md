@@ -1,4 +1,4 @@
-# ☁️ Mini Cloud Disaster Recovery System
+# Mini Cloud Disaster Recovery System
 
 A lightweight Python simulation that demonstrates a basic cloud disaster recovery mechanism. It monitors system memory, simulates data backup when a fault is detected, encrypts the backup, and allows manual restoration when the system is recovered.
 
@@ -6,7 +6,7 @@ A lightweight Python simulation that demonstrates a basic cloud disaster recover
 
 **Note:** I have kept the maximum threashold as 10% of memory to simulate it in my computer. 
 
-## 🎯 What It Does
+## What It Does
 
 -  **Monitors system memory usage** using `psutil`
 -  **Simulates a disaster** if memory exceeds a threshold (e.g., 10%)
@@ -24,7 +24,7 @@ A lightweight Python simulation that demonstrates a basic cloud disaster recover
 | logging    | Logs events to console and file              |
 | codecs     | Basic encryption with ROT13 (for simulation) |
 
-## 📁 Project Structure
+## Project Structure
 
 mini-cloud-disaster-recovery-system/
 ├── disaster_recovery.py # Main script
